@@ -1,0 +1,58 @@
+ID:1896322
+REPORT OF MY ASSIGNMENT:
+
+please see the below commands which we used in assignment.
+
+1)pwd:- I used this command to check the current folder.
+
+2)mkdir <foldername>:- I used this command to make a new directory.
+
+3)cd dir:- I used this command to check or change a directory.
+
+4)git clone:- I used this command to link with the git repository with the help of the URL. 
+
+For Example git clone https://github.com/SahilRangraHsp/MAD314-CV-1896322 
+
+$ git clone "https://github.com/SahilRangraHsp/MAD314-CV-1896322"
+Cloning into 'MAD314-CV-1896322'...
+warning: You appear to have cloned an empty repository.
+Checking connectivity... done.
+
+5) git init : I used this command to create a new local repository.
+
+6)ls:- I used this command to list all the system files.
+
+instructions.txt  Sahil Resume.pdf  report.tx
+
+7)git add -A:- I used this command to add a file in the existing directory.
+
+8)git status:- I used this command to get the current status of the dirctory.
+
+it looks like:
+$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+        new file:   report.tx
+
+9)git commit -m "":- I used this command to commit the existing directory, in this command you can add a messgae also as a statement.
+
+it look likes:
+
+[master f4ad856] report uploaded
+The file will have its original line endings in your working directory.
+ 1 files changed, 28 insertions(+), 0 deletions(-)
+ create mode 100644 report.txt
+
+10)git push:- I used this command to push my file to the my created repository.
+
+it look likes:
+Counting objects: 3, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 817 bytes | 0 bytes/s, done.
+Total 3 (delta 1), reused 0 (delta 0)
+
+Reporter Name- Sahil Rangra.
